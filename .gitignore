@@ -1,0 +1,4 @@
+credentials.json
+trial.ipynb
+**/*.vscode/
+**/*.ipynb_checkpoints/
